@@ -22,7 +22,7 @@ namespace FilmesAPi
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
-            services.AddDbContext<FilmeContext>(opts => opts.UseMySQL(Configuration.GetConnectionString("FilmeConnection")));
+            services.AddDbContext<FilmeContext>(opts => opts.UseLazyLoadingProxies().UseMySQL(Configuration.GetConnectionString("FilmeConnection")));
             services.AddControllers();
             services.AddSwaggerGen(c =>
             {

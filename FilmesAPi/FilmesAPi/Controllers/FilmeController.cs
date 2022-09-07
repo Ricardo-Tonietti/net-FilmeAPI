@@ -1,9 +1,8 @@
 ﻿using AutoMapper;
 using FilmesAPi.Data;
-using FilmesAPi.Data.Dtos;
 using FilmesAPi.Models;
+using FilmesAPI.Data.Dtos;
 using Microsoft.AspNetCore.Mvc;
-using System;
 using System.Collections.Generic;
 using System.Linq;
 
@@ -17,7 +16,7 @@ namespace FilmesAPi.Controllers
         private FilmeContext _context;
         private IMapper _mapper;
 
-        public FilmeController  (FilmeContext context, IMapper mapper)
+        public FilmeController(FilmeContext context, IMapper mapper)
         {
             _context = context;
             _mapper = mapper;
@@ -73,11 +72,11 @@ namespace FilmesAPi.Controllers
         public IActionResult AtualizaFilme(int id, [FromBody] UpdateFilmeDto filmeDto)
         {
             Filme filme = _context.Filmes.FirstOrDefault(filme => filme.Id == id);
-            if(filme == null)
+            if (filme == null)
             {
                 return NotFound();
             }
-           
+
             /*filme.Titulo = filmeDto.Titulo;
             filme.Genero = filmeDto.Genero;
             filme.Duracao = filmeDto.Duracao;
