@@ -51,10 +51,6 @@ C:\Treinamentos\dotNet\repos\FilmesAPi\FilmesAPi\obj\Debug\net5.0\refint\FilmesA
 C:\Treinamentos\dotNet\repos\FilmesAPi\FilmesAPi\obj\Debug\net5.0\FilmesAPi.pdb
 C:\Treinamentos\dotNet\repos\FilmesAPi\FilmesAPi\obj\Debug\net5.0\FilmesAPi.genruntimeconfig.cache
 C:\Treinamentos\dotNet\repos\FilmesAPi\FilmesAPi\obj\Debug\net5.0\ref\FilmesAPi.dll
-C:\Treinamentos\alura\repos\net-FilmeAPI\FilmesAPi\FilmesAPi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
-C:\Treinamentos\alura\repos\net-FilmeAPI\FilmesAPi\FilmesAPi\bin\Debug\net5.0\MySql.EntityFrameworkCore.dll
-C:\Treinamentos\alura\repos\net-FilmeAPI\FilmesAPi\FilmesAPi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
-C:\Treinamentos\alura\repos\net-FilmeAPI\FilmesAPi\FilmesAPi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
 C:\Treinamentos\alura\repos\net-FilmeAPI\FilmesAPi\FilmesAPi\bin\Debug\net5.0\appsettings.Development.json
 C:\Treinamentos\alura\repos\net-FilmeAPI\FilmesAPi\FilmesAPi\bin\Debug\net5.0\appsettings.json
 C:\Treinamentos\alura\repos\net-FilmeAPI\FilmesAPi\FilmesAPi\bin\Debug\net5.0\FilmesAPi.exe
@@ -66,13 +62,16 @@ C:\Treinamentos\alura\repos\net-FilmeAPI\FilmesAPi\FilmesAPi\bin\Debug\net5.0\Fi
 C:\Treinamentos\alura\repos\net-FilmeAPI\FilmesAPi\FilmesAPi\bin\Debug\net5.0\AutoMapper.dll
 C:\Treinamentos\alura\repos\net-FilmeAPI\FilmesAPi\FilmesAPi\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
 C:\Treinamentos\alura\repos\net-FilmeAPI\FilmesAPi\FilmesAPi\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+C:\Treinamentos\alura\repos\net-FilmeAPI\FilmesAPi\FilmesAPi\bin\Debug\net5.0\Castle.Core.dll
 C:\Treinamentos\alura\repos\net-FilmeAPI\FilmesAPi\FilmesAPi\bin\Debug\net5.0\Google.Protobuf.dll
 C:\Treinamentos\alura\repos\net-FilmeAPI\FilmesAPi\FilmesAPi\bin\Debug\net5.0\Humanizer.dll
 C:\Treinamentos\alura\repos\net-FilmeAPI\FilmesAPi\FilmesAPi\bin\Debug\net5.0\K4os.Compression.LZ4.dll
 C:\Treinamentos\alura\repos\net-FilmeAPI\FilmesAPi\FilmesAPi\bin\Debug\net5.0\K4os.Compression.LZ4.Streams.dll
 C:\Treinamentos\alura\repos\net-FilmeAPI\FilmesAPi\FilmesAPi\bin\Debug\net5.0\K4os.Hash.xxHash.dll
+C:\Treinamentos\alura\repos\net-FilmeAPI\FilmesAPi\FilmesAPi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
 C:\Treinamentos\alura\repos\net-FilmeAPI\FilmesAPi\FilmesAPi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
 C:\Treinamentos\alura\repos\net-FilmeAPI\FilmesAPi\FilmesAPi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Treinamentos\alura\repos\net-FilmeAPI\FilmesAPi\FilmesAPi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Proxies.dll
 C:\Treinamentos\alura\repos\net-FilmeAPI\FilmesAPi\FilmesAPi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
 C:\Treinamentos\alura\repos\net-FilmeAPI\FilmesAPi\FilmesAPi\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
 C:\Treinamentos\alura\repos\net-FilmeAPI\FilmesAPi\FilmesAPi\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
@@ -82,7 +81,10 @@ C:\Treinamentos\alura\repos\net-FilmeAPI\FilmesAPi\FilmesAPi\bin\Debug\net5.0\Mi
 C:\Treinamentos\alura\repos\net-FilmeAPI\FilmesAPi\FilmesAPi\bin\Debug\net5.0\MySql.Data.dll
 C:\Treinamentos\alura\repos\net-FilmeAPI\FilmesAPi\FilmesAPi\bin\Debug\net5.0\Ubiety.Dns.Core.dll
 C:\Treinamentos\alura\repos\net-FilmeAPI\FilmesAPi\FilmesAPi\bin\Debug\net5.0\ZstdNet.dll
+C:\Treinamentos\alura\repos\net-FilmeAPI\FilmesAPi\FilmesAPi\bin\Debug\net5.0\MySql.EntityFrameworkCore.dll
 C:\Treinamentos\alura\repos\net-FilmeAPI\FilmesAPi\FilmesAPi\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Treinamentos\alura\repos\net-FilmeAPI\FilmesAPi\FilmesAPi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Treinamentos\alura\repos\net-FilmeAPI\FilmesAPi\FilmesAPi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
 C:\Treinamentos\alura\repos\net-FilmeAPI\FilmesAPi\FilmesAPi\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
 C:\Treinamentos\alura\repos\net-FilmeAPI\FilmesAPi\FilmesAPi\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
 C:\Treinamentos\alura\repos\net-FilmeAPI\FilmesAPi\FilmesAPi\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
@@ -104,5 +106,3 @@ C:\Treinamentos\alura\repos\net-FilmeAPI\FilmesAPi\FilmesAPi\obj\Debug\net5.0\re
 C:\Treinamentos\alura\repos\net-FilmeAPI\FilmesAPi\FilmesAPi\obj\Debug\net5.0\FilmesAPi.pdb
 C:\Treinamentos\alura\repos\net-FilmeAPI\FilmesAPi\FilmesAPi\obj\Debug\net5.0\FilmesAPi.genruntimeconfig.cache
 C:\Treinamentos\alura\repos\net-FilmeAPI\FilmesAPi\FilmesAPi\obj\Debug\net5.0\ref\FilmesAPi.dll
-C:\Treinamentos\alura\repos\net-FilmeAPI\FilmesAPi\FilmesAPi\bin\Debug\net5.0\Castle.Core.dll
-C:\Treinamentos\alura\repos\net-FilmeAPI\FilmesAPi\FilmesAPi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Proxies.dll
